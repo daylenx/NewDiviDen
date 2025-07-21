@@ -1,16 +1,16 @@
-# Dividend Tracker
+# Dividend Tracker (updating) 
 
 A modern web application for tracking and managing dividend investments, built with React, TypeScript, and Firebase.
 
 ## Features
 
-- 🔐 User Authentication
-- 📊 Portfolio Management
-- 📈 Dividend Tracking
-- 📅 Upcoming Payout Calendar
-- 📚 Educational Resources
-- 🧮 Interactive Calculators
-- 🌗 Dark/Light Mode
+-  User Authentication
+-  Portfolio Management
+-  Dividend Tracking
+-  Upcoming Payout Calendar
+-  Educational Resources
+-  Interactive Calculators
+-  Dark/Light Mode
 
 ## Tech Stack
 
